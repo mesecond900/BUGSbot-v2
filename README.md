@@ -1,6 +1,7 @@
 # 🐞 BUGS-Bot v2
 
-**Bugs-Bot v2** is a versatile WhatsApp bot with features for **fun, moderation, games, AI, utilities**, and more. It is designed for easy setup and comes with a robust command system.
+**BUGS-Bot v2** is a versatile WhatsApp bot packed with features for **fun, moderation, games, AI, utilities**, and more.  
+It is designed for easy setup and comes with a robust command system.  
 
 ✨ **Enjoy chatting, managing groups, and automating tasks with your bot!**
 
@@ -8,16 +9,16 @@
 
 ## ⭐ Star & Fork
 
-If you find this bot useful, don’t forget to **star ⭐** and **fork 🍴** this repository!
+If you find this bot useful, don’t forget to **star ⭐** and **fork 🍴** this repository:
 
-* [Star this repository](https://github.com/bugs-tech/BUGSbot-v2)
-* [Fork this repository](https://github.com/bugs-tech/BUGSbot-v2/fork)
+- [⭐ Star this repository](https://github.com/bugs-tech/BUGSbot-v2)
+- [🍴 Fork this repository](https://github.com/bugs-tech/BUGSbot-v2/fork)
 
 ---
 
 ## ⚡ Installation (Termux)
 
-Follow the steps below to install and run BUGS-Bot v2 on Termux:
+Follow these steps to install and run **BUGS-Bot v2** on Termux:
 
 ```bash
 # Update packages
@@ -40,35 +41,35 @@ node index.js
 ```
 
 ---
-### One line installation for termux
----
-```pkg update -y && pkg upgrade -y && pkg install -y nodejs git python make clang libvips && git clone https://github.com/bugs-tech/BUGSbot-v2.git && cd BUGSbot-v2 && npm install --build-from-source sharp && npm install && node index.js
+
+### 🚀 One-line Installation (Termux)
+
+If you want a single command to set everything up:  
+
+```bash
+pkg update -y && pkg upgrade -y && pkg install -y nodejs git python make clang libvips && git clone https://github.com/bugs-tech/BUGSbot-v2.git && cd BUGSbot-v2 && npm install --build-from-source sharp && npm install && node index.js
 ```
 
-
 ---
 
-## 💻 Hosting Links
+## 💻 Hosting Options
 
-You can host your bot using the following free/paid hosting providers:
+You can host your bot on free or paid providers such as:
 
-* [Render](https://render.com)
-* [KataBump](https://katabump.com)
-* [OptiLink](https://optilink.io)
+- [Render](https://render.com)
+- [KataBump](https://katabump.com)
+- [OptiLink](https://optilink.io)
 
-Choose your preferred hosting service and deploy your bot online.
+Choose your preferred service and deploy your bot online.
 
 ---
 
 ## 📢 Support
 
-If you have any questions or need support, feel free to open an issue on the GitHub repository or contact the maintainer.
+For help or questions:  
+- Open an issue on the GitHub repository  
+- Or contact the maintainer directly  
 
 ---
 
 **Happy Botting!** 🚀
-
-
-
-
-
