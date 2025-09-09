@@ -1,27 +1,62 @@
-# 🤖 BUGS-BOT V2  
+# 🐞 BUGS-Bot v2
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Bot Under Development Animation"/>
-</p>
+**Bugs-Bot v2** is a versatile WhatsApp bot with features for **fun, moderation, games, AI, utilities**, and more. It is designed for easy setup and comes with a robust command system.
 
-<p align="center">
-  🚧 <b>BUGS-BOT V2 is currently under active development!</b> 🚧  
-</p>
+✨ **Enjoy chatting, managing groups, and automating tasks with your bot!**
 
 ---
 
-## 💻 Development Status  
+## ⭐ Star & Fork
 
-<p align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="450" alt="Anime Programming Animation"/>
-</p>
+If you find this bot useful, don’t forget to **star ⭐** and **fork 🍴** this repository!
+
+* [Star this repository](https://github.com/bugs-tech/BUGSbot-v2)
+* [Fork this repository](https://github.com/bugs-tech/BUGSbot-v2/fork)
+
+---
+
+## ⚡ Installation (Termux)
+
+Follow the steps below to install and run BUGS-Bot v2 on Termux:
+
+```bash
+# Update packages
+pkg update && pkg upgrade -y
+
+# Install Node.js and Git
+pkg install nodejs git -y
+
+# Clone repository
+git clone https://github.com/bugs-tech/BUGSbot-v2.git
+
+# Navigate to the folder
+cd BUGSbot-v2
+
+# Install dependencies
+npm install
+
+# Start the bot
+node index.js
+```
 
 ---
 
+## 💻 Hosting Links
 
-## 📞 Contact  
+You can host your bot using the following free/paid hosting providers:
 
-For more details, reach out on **WhatsApp**:  
-👉 +237653871607  
+* [Render](https://render.com)
+* [KataBump](https://katabump.com)
+* [OptiLink](https://optilink.io)
+
+Choose your preferred hosting service and deploy your bot online.
 
 ---
+
+## 📢 Support
+
+If you have any questions or need support, feel free to open an issue on the GitHub repository or contact the maintainer.
+
+---
+
+**Happy Botting!** 🚀
