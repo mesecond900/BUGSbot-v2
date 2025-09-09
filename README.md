@@ -40,6 +40,10 @@ node index.js
 ```
 
 ---
+###One line installation for termux
+---
+pkg update -y && pkg upgrade -y && pkg install -y nodejs git python make clang libvips && git clone https://github.com/bugs-tech/BUGSbot-v2.git && cd BUGSbot-v2 && npm install --build-from-source sharp && npm install && node index.js
+---
 
 ## 💻 Hosting Links
 
@@ -60,4 +64,5 @@ If you have any questions or need support, feel free to open an issue on the Git
 ---
 
 **Happy Botting!** 🚀
+
 
