@@ -57,7 +57,7 @@ pkg update -y && pkg upgrade -y && pkg install -y nodejs git python make clang l
 You can host your bot on free or paid providers such as:
 
 - [Render](https://render.com)
-- [KataBump](https://katabump.com)
+- [Bot-hosting]((https://bot-hosting.net/))
 - [OptiLink](https://optilink.io)
 
 Choose your preferred service and deploy your bot online.
@@ -73,3 +73,4 @@ For help or questions:
 ---
 
 **Happy Botting!** 🚀
+
