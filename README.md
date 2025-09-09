@@ -33,7 +33,7 @@ git clone https://github.com/bugs-tech/BUGSbot-v2.git
 cd BUGSbot-v2
 
 # Install dependencies
-npm install
+npm install --no-optional
 
 # Start the bot
 node index.js
@@ -60,3 +60,4 @@ If you have any questions or need support, feel free to open an issue on the Git
 ---
 
 **Happy Botting!** 🚀
+
