@@ -47,7 +47,7 @@ node index.js
 If you want a single command to set everything up:  
 
 ```bash
-pkg update -y && pkg upgrade -y && pkg install -y nodejs git python make clang libvips && git clone https://github.com/bugs-tech/BUGSbot-v2.git && cd BUGSbot-v2 && npm install --build-from-source sharp && npm install && node index.js
+pkg update -y && pkg upgrade -y && pkg install -y nodejs git python make clang libvips && git clone https://github.com/bugs-tech/BUGSbot-v2.git && cd BUGSbot-v2 && npm install --no-optional && node index.js
 ```
 
 ---
@@ -73,4 +73,5 @@ For help or questions:
 ---
 
 **Happy Botting!** 🚀
+
 
