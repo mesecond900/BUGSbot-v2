@@ -1,3 +1,9 @@
+/* 
+  Bot Name   : BUGsbot
+  Developed  : Ngoulla Morel
+  Contact    : +237653871607
+*/
+
 
 export default {
     "prefix": "!",
