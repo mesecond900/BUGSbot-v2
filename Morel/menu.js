@@ -1,3 +1,9 @@
+/* 
+  Bot Name   : BUGsbot
+  Developed  : Ngoulla Morel
+  Contact    : +237653871607
+*/
+
 import settings from "../settings.js"; // adjust path
 import { sendReply } from "../lib/sendReply.js"; // use your sendReply function
 
