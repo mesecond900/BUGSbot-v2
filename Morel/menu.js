@@ -1,1 +1,179 @@
-function _0x2674(_0x5db6cb,_0x53d163){const _0x359129=_0x3591();return _0x2674=function(_0x2674ef,_0x3c6481){_0x2674ef=_0x2674ef-0x102;let _0x1733c8=_0x359129[_0x2674ef];if(_0x2674['bTqdZQ']===undefined){var _0x1d19ac=function(_0x2b2611){const _0x3db18c='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x5ed5c5='',_0x2188a1='';for(let _0x18fde4=0x0,_0x412d3e,_0x2c9957,_0x15f90c=0x0;_0x2c9957=_0x2b2611['charAt'](_0x15f90c++);~_0x2c9957&&(_0x412d3e=_0x18fde4%0x4?_0x412d3e*0x40+_0x2c9957:_0x2c9957,_0x18fde4++%0x4)?_0x5ed5c5+=String['fromCharCode'](0xff&_0x412d3e>>(-0x2*_0x18fde4&0x6)):0x0){_0x2c9957=_0x3db18c['indexOf'](_0x2c9957);}for(let _0x1fd301=0x0,_0x24473a=_0x5ed5c5['length'];_0x1fd301<_0x24473a;_0x1fd301++){_0x2188a1+='%'+('00'+_0x5ed5c5['charCodeAt'](_0x1fd301)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x2188a1);};_0x2674['TdeXzb']=_0x1d19ac,_0x5db6cb=arguments,_0x2674['bTqdZQ']=!![];}const _0x2d846f=_0x359129[0x0],_0x3dd9ed=_0x2674ef+_0x2d846f,_0xa2686=_0x5db6cb[_0x3dd9ed];return!_0xa2686?(_0x1733c8=_0x2674['TdeXzb'](_0x1733c8),_0x5db6cb[_0x3dd9ed]=_0x1733c8):_0x1733c8=_0xa2686,_0x1733c8;},_0x2674(_0x5db6cb,_0x53d163);}function _0x3591(){const _0x4f6db8=['CgfYDgLJAxbHBNq','ufnUB2m','DhjPBq','A1LJCuS','z3vLC3nUDw1IzxiG4OctieD1zxnZigeGBNvTyMvYideTnta','zgfYzsdIGjmGuMfUzg9TigrHCMu','BgLZDgjSB2nRiokaKYbmAxn0igjSB2nRzwqGDxnLCNm','D2vSy29TzsbVBI9VzMyG4OctievUywjSzs9KAxnHyMXLihDLBgnVBwu','AwPsthe','yNjVywrJyxn0iokaKYbtzw5KigeGBwvZC2fNzsb0BYbHBgWGy2HHDhm','rw1vv3G','y2HHDgDWDdqG4OctiefZAYbdAgf0r1buidq','CMvTB3zLB3DUzxiG4OctifjLBw92zsbHBIbVD25LCG','sgvSBg8Siea','A2v5','CxvVDgvZiokaKYbsyw5KB20GCxvVDgu','ExrTCdqG4OctihLVDxr1yMuGDMLKzw8','C3bHBsdIGjmGANvZDcbMB3iGzNvU','uK1QA1G','Dw5TDxrLywXSiokaKYbvBM11DguGywXSig1LBwjLCNm','AvDfqxC','CgrMiokaKYbdB252zxj0ihrVifberG','qLLHEwy','zfzMBhG','ExrTCdnHiokaKYb5B3v0DwjLigf1zgLV','qNztqMK','zhDeqKG','ndC3ndyZzfnVr0Pk','yxv0B3n0yxr1C3zPzxCG4Octief1Dg8GDMLLDYbZDgf0Dxm','ChvZAe5HBwu','A2LJAYbaDxnLCIdIGjmGuMvTB3zLigeGBwvTyMvY','Cg9ZsKq','mNnLtMTota','zKfvs1C','Aw1lDg8','AgfUz21HBIdIGjmGr3vLC3mGDgHLihDVCMq','DhrjCxO','nwHmAvfkDW','r1b2sNq','DfHHvK0','twLQwwu','z2vTAw5PiokaKYbhzw1PBMKGquK','y29UBMvJDdqG4OctifbSyxKGq29UBMvJDca0','kIbMB2XSB3CGD2L0AcbHignVBw1HBMqkkKv4yw1WBgu6kIa','CgXHEteG4OctigrVD25SB2fKigf1zgLV','kIdIGjmG','yxv0B3n0yxr1C3jLywn0iokaKYbbDxrVihn0yxr1CYbYzwfJDgLVBG','uvHgu0O','tw1rqLm','ipcFKySksgvYzsbHCMuGDgHLigf2ywLSywjSzsbJB21Tyw5KCZOkkLvZywDLoIOGDhLWzsaQ','ChjLzML4','sNvmCwu','4PscicO','wg9vy3e','B3bLBMfPiokaKYbbC2SGt3bLBKfj','zNjLzxbYB3H5iokaKYbhzxqGzNjLzsbWCM94Eq','zhvyq24','uhfluuS','D2fYBIbaDxnLCIdIGjmGsxnZDwuGD2fYBMLUzW','Aw1NiokaKYbjBwfNzsbJB21Tyw5KCW','yxv0B3jLywqG4OctifrVz2DSzsbHDxrVlxjLywqGBwvZC2fNzxm','mtuXmZyZmK5nu2vTvW','qLHpANa','C3rPy2TLCIdIGjmGq3jLyxrLihn0AwnRzxi','yMLIBguG4OctieDLDcbcAwjSzsb2zxjZzq','uwPoDMy','mJbtr2HACwq','q3zVt0y','C3rVChnWyw0G4Octihn0B3aGCNvUAw5NihnWyw1Z','CxvPy2T0yxaG4OctiezPCNn0ihrVihjLCgX5ihDPBNm','4Psx4Psb4Psb4Psb4Psb4Psb4Psb4Psb4Psb4Psb4Psb4Psb4Psb4Psb4Psb4Psb4PsBcGO','yMXVy2SG4OctiejSB2nRigeGDxnLCG','ywrKB3DUzxiG4OctiefKzcbHig5LDYbIB3qGB3DUzxi','EvD6y1m','zMfJzwjVB2SG4OctigzHy2vIB29RihzPzgvV','CMvZzxr3yxjUieb1C2vYiokaKYbszxnLDcb3yxjUAw5NCW','C29UzYdIGjmGzg93BwXVywqGyxvKAw8','D2vIEMLWiokaKYbeB3DUBg9Hzcb3zwjZAxrL','DMvYC2LVBG','zM9YrwfJAa','yxv0B3jLywn0iokaKYbuB2DNBguGyxv0BYbLBw9QAsbYzwfJDgLVBG','DgfNywrTAw5ZiokaKYbnzw50Aw9UigfSBcbHzg1PBNm','Aw1Hz2uG4OctieDLBMvYyxrLigLTywDL','AfvRug4','rM52tvq','D29YzgH1BNqG4OctiezPBMqGD29Yzhm','DhjHBNnSyxrLiokaKYbuCMfUC2XHDguGDgv4Da','tuXHCey','s1fhqMu','zxbSB2L0iokaKYbQDxn0igzVCIbMDw4','vKjewe0','AuHVyM8','Bg9JA2DYB3vWiokaKYaGywrTAw5ZignHBIbTzxnZywDLCW','s0vOyvu','zuzhDMS','z2L0y2XVBMuG4OctigDPDcbKB3DUBg9Hza','ExrTCdmG4OctihLVDxr1yMuGyxvKAw8','vM1ODfK','mtzwBNPXyK8','CMvTB3zLyMCG4OctifjLBw92zsbIywnRz3jVDw5K','z3zYs2O','mJG4ntuZnxnXvLvusW','Dhj1DgHKyxjLiokaKYbuCNv0Ac9eyxjLignVBwjV','C3bVDgLMEsdIGjmGyxvKAw8Gzg93BMXVywq','zeLJuhG','lM1LBNu','yw50AwjVDcbVBI9VzMyG4OctiejSB2nRihvUyxv0Ag9YAxPLzcbIB3rZ','y2HHDgDWDcdIGjmGqxnRienOyxrhufq','Bg9NB3f1AxOG4OctieD1zxnZigjYyw5KigXVz28','CMvTB3rLsMLK','4Psp4Psb4Psb4Psb4Psb4Psb4Psb4Psb4Psb4Psb4Psb4Psb4Psb4Psb4Psb4Psb4PstcG','tfDeBxK','Ew91Dgj1yMvHiokaKYb5B3v0DwjLigf1zgLV','B2jMDxnJyxrLiokaKYbpyMz1C2nHDguGy29Kzq','Bwf0Ahf1AxOG4OctifnVBhzLigeGBwf0AcbWCM9IBgvT','zwf6De0','otqWndm3m2LvzLrrrW','yw5Hz3jHBsdIGjmGvw5Zy3jHBwjSzsbSzxr0zxjZ','Eg1bree','DgfNywXSiokaKYbnzw50Aw9Uigv2zxj5B25L','4PsdicPoyw1LoIOG','mte0mJuWA25hy2Hs','C2v0zgvZyYbBDgv4Df0G4OctienOyw5NzsbNCM91CcbKzxnJCMLWDgLVBG','zunSuvq','CMLKzgXLiokaKYbsyw5KB20GCMLKzgXL','z2XPDgnODgv4DcdIGjmGr2XPDgnOihrLEhq','mtm0mZi0n1bWA0vktW','AujVufe','zMfJzwjVB2SXiokaKYbMywnLyM9VAYb2AwrLBW','kIdINzBILihILjmk','CxDOrM0','yLPIBfu','4PsdicPqCMvMAxG6kIa','BwvUDq','rfLVuKm','rgLZCgXHEsbHBgWGy29TBwfUzhmGz3jVDxbLzcbPBIbHihn0EwXLzcbIB3G','Bxv0zwfSBcdIGjmGtxv0zsbHBgWGBwvTyMvYCW','vuLMBfC','zxDNzgS','D29YzgnOywLUiokaKYbdB250Aw51zsb3B3jKignOywLU','wejiuNO','CgLUzYdIGjmGyM90ihjLC3bVBNnL','Dg9PBwCG4OctienVBNzLCNqGC3rPy2TLCIb0BYbPBwfNzq','DgLRDg9RiokaKYb0AwT0B2SGDMLKzw8','tenbyNu','ywr2AwnLiokaKYbsyw5KB20Gywr2AwnL','CgXHEsdIGjmGzg93BMXVywqGDMLKzw8','C1D0rwG','D2HVAxmG4OctieDLDcbKB21HAw4GAw5MBW','odi4nJu2z0LhEhny','ywrKifTUDw1IzxjDiokaKYbbzgqGBwvTyMvYigj5ig51BwjLCG','DgLRDg9RmsdIGjmGDgLRDg9RihzPzgvV','AM9RzsdIGjmGuMfUzg9TigPVA2u','DgLJDgfJDg9LiokaKYbqBgf5ifrPyYbuywmGvg9L','yw50AwrLBgv0zsdIGjmGuMvZDg9YzsbKzwXLDgvKig1LC3nHz2vZ','tu1ZugK','vKPSDue','sKrUBwO','DhjwuLe','BgLZDhDHCM4G4OctifnOB3CGD2fYBMLUzYbJB3vUDa','DKLzwwq','Aw5ZDgfNCMfTmsdIGjmGAw5ZDgfNCMfTihzPzgvV','zNzbB0y','C29UzZeG4OctigrVD25SB2fKihzPzgvV','zgvTB3rLieb1C2vYiokaKYbszw1VDMuGywrTAw4','Dgv4DhnWzwvJAcdIGjmGq29UDMvYDcb0zxH0ihrVihnWzwvJAa','Dhj1DgGG4OctifjHBMrVBsb0CNv0Aa','ChjVBw90zsbaDxnLCIdIGjmGtwfRzsbHzg1PBG','D2rru2C','CMv2B2TLiokaKYbszxzVA2uGz3jVDxaGBgLUAW','uefpD2K','C3bSAxq','y3zqC3K','zw1VAMLXDwL6iokaKYbhDwvZCYb0AguGzw1VAMKGD29Yza','AhDcDxu','Aw5MAw5PDgvZCgfTiokaKYbQDxn0igzVCIbMDw4','z0DUzNu','y2HHDgDWDdmG4OctiefZAYbdAgf0r1buidm','y2fYDg9VBNrLEhqG4OctienHCNrVB24GDgv4Da','s2PWEgO','z3jVDxbSAw5RiokaKYbhzxqGz3jVDxaGAw52AxrLigXPBMS','C2v0BMfTzsbBDgv4Df0G4OctienOyw5NzsbNCM91CcbUyw1L','zMfZDhr5CguG4Octifr5CguGzMfZDcbJAgfSBgvUz2u','y3HTCLu','yw50AwXPBMSGB24VB2zMiokaKYbcBg9JAYbNCM91CcbSAw5RCW','zw50CMLLCW','B3DUzxiG4OctihnOB3CGyM90ig93BMvY'];_0x3591=function(){return _0x4f6db8;};return _0x3591();}const _0x58985a=_0x2674;(function(_0x381290,_0x5a22ba){const _0x392107=_0x2674,_0x4b8742=_0x381290();while(!![]){try{const _0x2a30e7=parseInt(_0x392107(0x166))/0x1+-parseInt(_0x392107(0x10d))/0x2*(-parseInt(_0x392107(0x16b))/0x3)+-parseInt(_0x392107(0x182))/0x4+parseInt(_0x392107(0x112))/0x5*(parseInt(_0x392107(0x12a))/0x6)+-parseInt(_0x392107(0x108))/0x7*(-parseInt(_0x392107(0x14f))/0x8)+-parseInt(_0x392107(0x152))/0x9*(-parseInt(_0x392107(0x12f))/0xa)+-parseInt(_0x392107(0x161))/0xb;if(_0x2a30e7===_0x5a22ba)break;else _0x4b8742['push'](_0x4b8742['shift']());}catch(_0x48c7a5){_0x4b8742['push'](_0x4b8742['shift']());}}}(_0x3591,0x81594));import _0x18e3b7 from'../settings.js';import{sendReply}from'../lib/sendReply.js';export default{'name':_0x58985a(0x172),'description':_0x58985a(0x174),'usage':_0x58985a(0x156),'type':'general',async 'execute'(_0x34b83d,_0x9f7321){const _0x24cab3=_0x58985a,_0xbeb1d8={'PAOwi':_0x24cab3(0x1b4),'vIYYd':'listowners\x20–\x20Show\x20all\x20owners','RMjkX':'unblock\x20–\x20Unblock\x20a\x20user','sWtEh':_0x24cab3(0x1ae),'cvPsy':_0x24cab3(0x129),'vkscs':'autotyping\x20–\x20Toggle\x20typing\x20indicator','iWEAw':_0x24cab3(0x109),'yWzcS':_0x24cab3(0x11b),'imKto':_0x24cab3(0x187),'ttIqz':_0x24cab3(0x1b1),'iHobo':'sysinfo\x20–\x20Show\x20system\x20info','DvpQw':'groupinfo\x20–\x20Show\x20group\x20details','QXFSJ':_0x24cab3(0x167),'posJD':_0x24cab3(0x1a2),'MLapF':'setdp\x20–\x20Change\x20group\x20display\x20picture','dwDBH':_0x24cab3(0x196),'dIcPx':_0x24cab3(0x175),'gKjHh':_0x24cab3(0x149),'gvrKj':'unlockgroup\x20–\x20Everyone\x20can\x20messages','JDnmj':_0x24cab3(0x183),'XoUcq':_0x24cab3(0x194),'jBpSG':_0x24cab3(0x191),'gpMWo':_0x24cab3(0x18c),'IuDIb':'pin\x20[message]\x20–\x20Pin\x20message','hwBuu':_0x24cab3(0x1af),'cxmrU':_0x24cab3(0x1a5),'CwKnn':_0x24cab3(0x157),'XBHRz':_0x24cab3(0x1ad),'ewgdk':_0x24cab3(0x169),'lhLug':'quiz\x20–\x20Multiple-choice\x20question','gGnfu':_0x24cab3(0x1ac),'PSnoc':'rockpaperscissors\x20–\x20Play\x20RPS','myCZJ':_0x24cab3(0x15f),'BYayf':_0x24cab3(0x162),'fvAoF':_0x24cab3(0x142),'ijRLq':_0x24cab3(0x178),'BTNsi':_0x24cab3(0x110),'eaztM':_0x24cab3(0x19a),'MMsPi':'guesstheword\x20–\x20Bot\x20gives\x20hints','WSIsR':'flagquiz\x20–\x20Guess\x20the\x20country\x20flag','PqKQK':_0x24cab3(0x117),'MmQBS':_0x24cab3(0x19e),'VJluA':_0x24cab3(0x158),'FnvMT':_0x24cab3(0x123),'GPvJt':_0x24cab3(0x116),'VrgwO':'deepimg\x20–\x20Generate\x20images','Kjpxj':_0x24cab3(0x13f),'eClQT':_0x24cab3(0x128),'EuvoH':_0x24cab3(0x143),'BXOjp':_0x24cab3(0x192),'KQGBe':'chatbot\x20–\x20AI\x20chatbot','MijYe':_0x24cab3(0x190),'hUkPn':_0x24cab3(0x119),'VmhtY':_0x24cab3(0x139),'JuLqe':_0x24cab3(0x14d),'YLUAE':_0x24cab3(0x105),'QjNvf':_0x24cab3(0x17c),'dVflx':'ytmp4v\x20–\x20youtube\x20video','KEhaU':'youtube\x20–\x20youtube\x20video','kYcqK':_0x24cab3(0x137),'ZQVLl':_0x24cab3(0x16d),'bOUHr':'instagram\x20–\x20instagram\x20video','DYoRC':_0x24cab3(0x18e),'VBDXM':_0x24cab3(0x154),'pbAEf':_0x24cab3(0x14c),'XRfwo':_0x24cab3(0x13a),'LCAbu':_0x24cab3(0x124),'wdQSg':_0x24cab3(0x102),'bZblU':'urlshort\x20–\x20Shorten\x20URL','JuVwP':_0x24cab3(0x185),'duXCn':_0x24cab3(0x1b7),'ksPNz':_0x24cab3(0x17b),'fAUKW':'toimg\x20–\x20Convert\x20sticker\x20to\x20video','trVRQ':_0x24cab3(0x12c),'UIflW':_0x24cab3(0x16a),'xmADA':_0x24cab3(0x19f),'EmUWx':'goldtext\x20–\x20Golden\x20text','CvoOF':_0x24cab3(0x150),'LWDmy':'whoami\x20–\x20see\x20jid\x20number','tXaVM':'repo\x20–\x20github\x20repo','qwhFm':_0x24cab3(0x146),'BvSBi':_0x24cab3(0x1b9),'iBoPQ':_0x24cab3(0x19c),'eFGvk':_0x24cab3(0x131)},_0x435c3b=_0x9f7321[_0x24cab3(0x1b6)][_0x24cab3(0x15a)],_0x269932=_0x9f7321[_0x24cab3(0x1b6)][_0x24cab3(0x1a8)]||_0x435c3b,_0x554a1a=_0x9f7321[_0x24cab3(0x10a)]||_0x269932['split']('@')[0x0],_0x26b69c={'OWNER':[_0x24cab3(0x135),_0xbeb1d8[_0x24cab3(0x197)],_0xbeb1d8[_0x24cab3(0x18d)],_0x24cab3(0x134),_0xbeb1d8[_0x24cab3(0x1ba)],_0xbeb1d8[_0x24cab3(0x180)],_0xbeb1d8[_0x24cab3(0x199)],_0x24cab3(0x13d),_0xbeb1d8['vkscs'],_0xbeb1d8[_0x24cab3(0x1bc)],_0xbeb1d8[_0x24cab3(0x136)],_0xbeb1d8[_0x24cab3(0x10f)],_0xbeb1d8[_0x24cab3(0x111)],_0xbeb1d8[_0x24cab3(0x148)],'restart\x20–\x20Restart\x20bot'],'GROUP':[_0xbeb1d8['DvpQw'],_0x24cab3(0x1a1),_0xbeb1d8[_0x24cab3(0x11c)],_0xbeb1d8[_0x24cab3(0x10c)],_0xbeb1d8[_0x24cab3(0x144)],_0xbeb1d8[_0x24cab3(0x107)],_0xbeb1d8[_0x24cab3(0x155)],_0x24cab3(0x1bb),_0xbeb1d8['gKjHh'],_0xbeb1d8[_0x24cab3(0x151)],_0x24cab3(0x10b),_0xbeb1d8[_0x24cab3(0x18a)],_0xbeb1d8[_0x24cab3(0x122)],_0xbeb1d8['jBpSG'],_0x24cab3(0x164),_0x24cab3(0x13e),_0x24cab3(0x127),_0xbeb1d8['gpMWo'],_0x24cab3(0x138),_0xbeb1d8['IuDIb'],_0xbeb1d8[_0x24cab3(0x19b)],_0xbeb1d8[_0x24cab3(0x1a4)],_0xbeb1d8['CwKnn']],'GAMES':[_0x24cab3(0x193),_0xbeb1d8[_0x24cab3(0x179)],_0x24cab3(0x153),_0xbeb1d8[_0x24cab3(0x177)],_0xbeb1d8['lhLug'],_0xbeb1d8[_0x24cab3(0x19d)],_0xbeb1d8[_0x24cab3(0x1a9)],_0x24cab3(0x1a3),_0xbeb1d8['myCZJ'],_0xbeb1d8[_0x24cab3(0x103)],_0xbeb1d8[_0x24cab3(0x18f)],_0xbeb1d8[_0x24cab3(0x1b0)],_0xbeb1d8['BTNsi'],_0xbeb1d8[_0x24cab3(0x160)],_0xbeb1d8[_0x24cab3(0x188)],_0x24cab3(0x132),_0xbeb1d8['WSIsR'],_0x24cab3(0x159),'countrycapital\x20–\x20Match\x20country\x20&\x20capital',_0x24cab3(0x186),_0xbeb1d8[_0x24cab3(0x126)]],'AI':[_0x24cab3(0x1b3),_0xbeb1d8[_0x24cab3(0x11d)],_0xbeb1d8[_0x24cab3(0x189)],_0xbeb1d8[_0x24cab3(0x141)],_0xbeb1d8[_0x24cab3(0x113)],_0xbeb1d8['VrgwO'],_0xbeb1d8[_0x24cab3(0x1a0)],_0xbeb1d8[_0x24cab3(0x168)],_0xbeb1d8['EuvoH'],_0xbeb1d8[_0x24cab3(0x12b)],_0xbeb1d8[_0x24cab3(0x145)]],'DOWNLOAD':[_0x24cab3(0x17f),_0xbeb1d8[_0x24cab3(0x115)],_0xbeb1d8[_0x24cab3(0x140)],_0xbeb1d8[_0x24cab3(0x14e)],_0xbeb1d8[_0x24cab3(0x120)],_0xbeb1d8['YLUAE'],_0xbeb1d8[_0x24cab3(0x12e)],_0x24cab3(0x184),_0x24cab3(0x1b8),_0xbeb1d8[_0x24cab3(0x104)],_0xbeb1d8[_0x24cab3(0x14a)],_0x24cab3(0x15d),_0xbeb1d8[_0x24cab3(0x1ab)],_0xbeb1d8['ZQVLl'],_0xbeb1d8['bOUHr'],_0xbeb1d8[_0x24cab3(0x173)],_0xbeb1d8[_0x24cab3(0x147)],_0xbeb1d8['pbAEf']],'TOOLS':[_0x24cab3(0x181),_0xbeb1d8['XRfwo'],_0xbeb1d8[_0x24cab3(0x17d)],_0xbeb1d8[_0x24cab3(0x195)],_0xbeb1d8[_0x24cab3(0x170)],_0x24cab3(0x15e),_0x24cab3(0x12d)],'FUN':[_0xbeb1d8['JuVwP'],_0x24cab3(0x17e),_0xbeb1d8[_0x24cab3(0x125)],'motivation\x20–\x20Motivation\x20quote'],'IMAGES':[_0xbeb1d8['ksPNz'],_0xbeb1d8[_0x24cab3(0x10e)],_0xbeb1d8[_0x24cab3(0x18b)],_0xbeb1d8[_0x24cab3(0x176)],_0xbeb1d8[_0x24cab3(0x163)],_0xbeb1d8[_0x24cab3(0x1b2)],_0xbeb1d8[_0x24cab3(0x130)]],'OTHER':[_0x24cab3(0x17a),_0x24cab3(0x1a7),_0xbeb1d8[_0x24cab3(0x15c)],_0xbeb1d8[_0x24cab3(0x114)],_0xbeb1d8[_0x24cab3(0x16f)],_0xbeb1d8[_0x24cab3(0x106)],_0xbeb1d8[_0x24cab3(0x16c)],_0xbeb1d8[_0x24cab3(0x14b)]]};let _0x53dead=_0x24cab3(0x15b);_0x53dead+=_0x24cab3(0x165)+_0x18e3b7['botName']+'\x0a',_0x53dead+='┃\x20*Version:*\x20'+_0x18e3b7[_0x24cab3(0x13b)]+'\x0a',_0x53dead+=_0x24cab3(0x171)+_0x18e3b7[_0x24cab3(0x11f)]+'\x0a',_0x53dead+=_0x24cab3(0x133),_0x53dead+=_0x24cab3(0x1b5)+_0x554a1a+_0x24cab3(0x11e)+_0x18e3b7[_0x24cab3(0x11f)]+_0x24cab3(0x118)+_0x18e3b7[_0x24cab3(0x11f)]+'ping\x0a\x0a';for(const [_0x57df04,_0x3779aa]of Object[_0x24cab3(0x1a6)](_0x26b69c)){_0x53dead+='┏━❖\x20*'+_0x57df04+_0x24cab3(0x16e),_0x3779aa[_0x24cab3(0x13c)](_0x21643f=>{const _0x470ea9=_0x24cab3,[_0x44fc1a,..._0x1ae06e]=_0x21643f[_0x470ea9(0x198)]('–'),_0x288200=_0x1ae06e['join']('–')['trim']();_0x53dead+=_0x470ea9(0x121)+_0x44fc1a[_0x470ea9(0x1aa)]()+_0x470ea9(0x11a)+_0x288200+'\x0a';}),_0x53dead+=_0x24cab3(0x133);}await sendReply(_0x34b83d,_0x9f7321,_0x53dead,[_0x269932]);}};
+import settings from "../settings.js"; // adjust path
+import { sendReply } from "../lib/sendReply.js"; // use your sendReply function
+
+export default {
+  name: "menu",
+  description: "Display all commands grouped in a styled box",
+  usage: ".menu",
+  type: "general",
+  async execute(sock, msg) {
+    const chatId = msg.key.remoteJid;
+    const sender = msg.key.participant || chatId;
+    const userName = msg.pushName || sender.split("@")[0];
+
+    // Define command categories
+    const menu = {
+      OWNER: [
+        "addowner – Add a new bot owner",
+        "removeowner – Remove an owner",
+        "listowners – Show all owners",
+        "block – Block a user",
+        "unblock – Unblock a user",
+        "listblock – List blocked users",
+        "autoread – Toggle auto-read messages",
+        "autoreact – Toggle auto emoji reaction",
+        "autotyping – Toggle typing indicator",
+        "autostatusview – Auto view status",
+        "autostatusreact – Auto status reaction",
+        "antidelete – Restore deleted messages",
+        "broadcast – Send a message to all chats",
+        "sysinfo – Show system info",
+        "restart – Restart bot"
+      ],
+      GROUP: [
+        "groupinfo – Show group details",
+        "grouplink – Get group invite link",
+        "setdesc [text] – Change group description",
+        "setname [text] – Change group name",
+        "setdp – Change group display picture",
+        "revoke – Revoke group link",
+        "muteall – Mute all members",
+        "unmuteall – Unmute all members",
+        "lockgroup –  admins can messages",
+        "unlockgroup – Everyone can messages",
+        "kick @user – Remove a member",
+        "add [number] – Add member by number",
+        "promote @user – Make admin",
+        "demote @user – Remove admin",
+        "tagall – Mention everyone",
+        "tagadmins – Mention all admins",
+        "warn @user – Issue warning",
+        "listwarn – Show warning count",
+        "resetwarn @user – Reset warnings",
+        "pin [message] – Pin message",
+        "welcome on/off – Enable/disable welcome",
+        "antilink on/off – Block group links",
+        "antibot on/off – Block unauthorized bots"
+      ],
+      GAMES: [
+        "truth – Random truth",
+        "dare – Random dare",
+        "truthdare – Truth/Dare combo",
+        "riddle – Random riddle",
+        "quiz – Multiple-choice question",
+        "guessnumber – Guess a number 1-50",
+        "rockpaperscissors – Play RPS",
+        "fasttype – Type fast challenge",
+        "mathquiz – Solve a math problem",
+        "anagram – Unscramble letters",
+        "wordhunt – Find words",
+        "wordchain – Continue word chain",
+        "hangman – Guess the word",
+        "emojiquiz – Guess the emoji word",
+        "guesstheword – Bot gives hints",
+        "quicktap – First to reply wins",
+        "flagquiz – Guess the country flag",
+        "logoquiz – Guess brand logo",
+        "countrycapital – Match country & capital",
+        "tictactoe – Play Tic Tac Toe",
+        "connect4 – Play Connect 4"
+      ],
+      AI: [
+        "chatgpt4 – Ask ChatGPT 4",
+        "chatgpt3 – Ask ChatGPT 3",
+        "chatgpt – Ask ChatGPT",
+        "openai – Ask OpenAI",
+        "gemini – Gemini AI",
+        "deepimg – Generate images",
+        "image – Generate image",
+        "img – Image commands",
+        "translate – Translate text",
+        "textspeech – Convert text to speech",
+        "chatbot – AI chatbot"
+      ],
+      DOWNLOAD: [
+        "play – download video",
+        "song1 – download video",
+        "play1 – download audio",
+        "song – dowmload audio",
+        "ytmp3 – youtube audio",
+        "ytmp3a – youtube audio",
+        "tiktok – tiktok video",
+        "tiktok1 – tiktok video",
+        "ytmp4 – youtube video",
+        "ytmp4v – youtube video",
+        "youtube – youtube video",
+        "youtbubea – youtube audio",
+        "facebook – facebook video",
+        "facebook1 – facebook video",
+        "instagram – instagram video",
+        "instagram1 – instagram video",
+        "spotify – audio download",
+        "gitclone – git download"
+        
+      ],
+      TOOLS: [
+        "whois – Get domain info",
+        "webzip – Download website",
+        "freeproxy – Get free proxy",
+        "pdf – Convert to PDF",
+        "urlshort – Shorten URL",
+        "obfuscate – Obfuscate code",
+        "bible – Get Bible verse"
+      ],
+      STALKER:[
+        "tikstalk – tiktok stalk",
+        "igstalk – instagram stalk",
+        "ipstalk – ip address stalk",
+        "npmstalk – npm packages"
+      ],
+      FUN: [
+        "joke – Random joke",
+        "advice – Random advice",
+        "quotes – Random quote",
+        "motivation – Motivation quote"
+      ],
+      IMAGES: [
+        "toimg – Convert sticker to image",
+        "toimg – Convert sticker to video",
+        "sticker – Create sticker",
+        "glitchtext – Glitch text",
+        "cartoontext – Cartoon text",
+        "goldtext – Golden text",
+        "removebg – Remove background"
+      ],
+      OTHER:[
+        "ping – bot response",
+        "owner – show bot owner",
+        "whoami – see jid number",
+        "repo – github repo",
+        "eploit – just for fun",
+        "spam – just for fun",
+        "infinitespam – just for fun",
+        "stopspam – stop runing spams"
+      ]
+    };
+
+    // Build menu text
+    let message = `┏━━━━━━━━━━━━━━━┓\n`;
+message += `┃ *Name:* ${settings.botName}\n`;
+message += `┃ *Version:* ${settings.version}\n`;
+message += `┃ *Prefix:* ${settings.prefix}\n`;
+message += `┗━━━━━━━━━━━━━━━┛\n\n`;
+message += `Hello, @${userName} 👋\nHere are the available commands:\n*Usage:* type *${settings.prefix}* follow with a command\n*Example:* ${settings.prefix}ping\n\n`;
+
+for (const [category, cmds] of Object.entries(menu)) {
+  message += `┏━❖ *${category}* ❖━┓\n`;
+  cmds.forEach(cmd => {
+    // Split command and explanation
+    const [command, ...explanationParts] = cmd.split("–");
+    const explanation = explanationParts.join("–").trim();
+    message += `│ *${command.trim()}* – ${explanation}\n`;
+  });
+  message += `┗━━━━━━━━━━━━━━━┛\n\n`;
+}
+
+    // Send reply mentioning user
+    await sendReply(sock, msg, message, [sender]);
+  }
+};
