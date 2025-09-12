@@ -4,4 +4,47 @@
   Contact    : +237653871607
 */
 
-function _0x589c(){const _0x3c98e2=['mtG4ndiYmhzYEgz2ra','C3rHDhvZ','yxvKAw8VBxbLzW','C2vUze1LC3nHz2u','4P2mifbSzwfZzsbWCM92AwrLigeGC29UzYbUyw1LlGPfEgfTCgXLoIbGlNnVBMCGrMfKzwrG','Aufgr0e','cVcFKyeGkLzPzxDZoIOG','4P2miefUigvYCM9Yig9Jy3vYCMvKihDOAwXLigrVD25SB2fKAw5NihrOzsbZB25NlG','Dg9mB2nHBgvtDhjPBMC','mJe3ndu0m3PeBe1sBW','mtmYntG3nZzSr2TdBhC','mJm1mdKZogLUv1bKEq','C29UzW','ANnVBG','4P2mievYCM9YigLUihnVBMCGy29TBwfUzdO','v0PXtxu','mZG2odK4q05iz3LI','CMvTB3rLsMLK','y3r5tLy','nwn4whnpAq','A2v5','kGRWN5wsicPeDxjHDgLVBJOQia','rg93BMXVywqGysbZB25Nigj5ig5HBwu','tI9b','oteYmJzvsgLNr3q','EMzPu24','odG4mJyWDhLxs1nN','zg93BMXVywrFDxjS','CMvZDwX0'];_0x589c=function(){return _0x3c98e2;};return _0x589c();}const _0x5d4d8d=_0x47a6;(function(_0x634c76,_0x3d3040){const _0x15beb7=_0x47a6,_0x58d059=_0x634c76();while(!![]){try{const _0x72626=parseInt(_0x15beb7(0x137))/0x1+-parseInt(_0x15beb7(0x139))/0x2+-parseInt(_0x15beb7(0x12a))/0x3+-parseInt(_0x15beb7(0x13c))/0x4+-parseInt(_0x15beb7(0x132))/0x5*(-parseInt(_0x15beb7(0x12f))/0x6)+parseInt(_0x15beb7(0x128))/0x7+parseInt(_0x15beb7(0x129))/0x8;if(_0x72626===_0x3d3040)break;else _0x58d059['push'](_0x58d059['shift']());}catch(_0x642710){_0x58d059['push'](_0x58d059['shift']());}}}(_0x589c,0x67baa));import _0x5cb90a from'node-fetch';import{sendReply}from'../lib/sendReply.js';function _0x47a6(_0x5ea72b,_0x2f3f8f){const _0x589c4a=_0x589c();return _0x47a6=function(_0x47a622,_0x465b1a){_0x47a622=_0x47a622-0x120;let _0x546d45=_0x589c4a[_0x47a622];if(_0x47a6['CuWUcc']===undefined){var _0x160b9f=function(_0x21947a){const _0x453025='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x51c2ee='',_0x3e01dd='';for(let _0x209116=0x0,_0x2b33e5,_0xdaa3c4,_0x354f34=0x0;_0xdaa3c4=_0x21947a['charAt'](_0x354f34++);~_0xdaa3c4&&(_0x2b33e5=_0x209116%0x4?_0x2b33e5*0x40+_0xdaa3c4:_0xdaa3c4,_0x209116++%0x4)?_0x51c2ee+=String['fromCharCode'](0xff&_0x2b33e5>>(-0x2*_0x209116&0x6)):0x0){_0xdaa3c4=_0x453025['indexOf'](_0xdaa3c4);}for(let _0x4c7b27=0x0,_0x2aafa8=_0x51c2ee['length'];_0x4c7b27<_0x2aafa8;_0x4c7b27++){_0x3e01dd+='%'+('00'+_0x51c2ee['charCodeAt'](_0x4c7b27)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x3e01dd);};_0x47a6['njtgek']=_0x160b9f,_0x5ea72b=arguments,_0x47a6['CuWUcc']=!![];}const _0x1a622b=_0x589c4a[0x0],_0x44125f=_0x47a622+_0x1a622b,_0x140775=_0x5ea72b[_0x44125f];return!_0x140775?(_0x546d45=_0x47a6['njtgek'](_0x546d45),_0x5ea72b[_0x44125f]=_0x546d45):_0x546d45=_0x140775,_0x546d45;},_0x47a6(_0x5ea72b,_0x2f3f8f);}export default{'name':_0x5d4d8d(0x12b),'description':_0x5d4d8d(0x135),'category':'music',async 'execute'(_0x326160,_0x50a8ac,_0xdbee19){const _0x2ba92c=_0x5d4d8d,_0x2fb695={'hgyXy':function(_0x15d2a3,_0x2ea0b8){return _0x15d2a3===_0x2ea0b8;},'ctyNV':function(_0x1caf6f,_0x55dbcc,_0x48289,_0x44da0b){return _0x1caf6f(_0x55dbcc,_0x48289,_0x44da0b);},'iAFGA':function(_0x5dad47,_0x5651aa){return _0x5dad47(_0x5651aa);},'zfiSn':'❌\x20Failed\x20to\x20find\x20the\x20song.\x20Try\x20another\x20keyword.','ElMMp':_0x2ba92c(0x136),'VxYyO':_0x2ba92c(0x12d),'WJqMu':function(_0x1f32ee,_0x232d2b,_0x442373,_0x585d38){return _0x1f32ee(_0x232d2b,_0x442373,_0x585d38);},'tJuSi':_0x2ba92c(0x126)};try{if(!_0xdbee19||_0x2fb695['hgyXy'](_0xdbee19['length'],0x0))return _0x2fb695[_0x2ba92c(0x131)](sendReply,_0x326160,_0x50a8ac,_0x2ba92c(0x123));const _0x43835a=_0xdbee19['join']('\x20'),_0x46d3b3='https://apis.davidcyriltech.my.id/song?query='+encodeURIComponent(_0x43835a),_0x571898=await _0x2fb695[_0x2ba92c(0x124)](_0x5cb90a,_0x46d3b3),_0x59f3da=await _0x571898[_0x2ba92c(0x12c)]();if(!_0x59f3da[_0x2ba92c(0x120)]||!_0x59f3da[_0x2ba92c(0x13b)])return sendReply(_0x326160,_0x50a8ac,_0x2fb695[_0x2ba92c(0x138)]);const {title:_0x27d82a,video_url:_0x5e5f77,thumbnail:_0xc3f064,duration:_0x1d12db,views:_0xc33985,published:_0x13bb16,audio:_0x2b3858}=_0x59f3da[_0x2ba92c(0x13b)];await _0x326160[_0x2ba92c(0x122)](_0x50a8ac['key'][_0x2ba92c(0x130)],{'image':{'url':_0xc3f064},'caption':'🎵\x20*'+_0x27d82a+_0x2ba92c(0x134)+_0x1d12db+_0x2ba92c(0x125)+(_0xc33985?.[_0x2ba92c(0x127)]()||_0x2fb695['ElMMp'])+'\x0a📅\x20*Published:*\x20'+_0x13bb16+'\x0a🔗\x20*Video:*\x20'+_0x5e5f77},{'quoted':_0x50a8ac}),await _0x326160['sendMessage'](_0x50a8ac[_0x2ba92c(0x133)][_0x2ba92c(0x130)],{'audio':{'url':_0x2b3858[_0x2ba92c(0x13a)]},'mimetype':_0x2ba92c(0x121),'fileName':_0x27d82a+'.mp3'},{'quoted':_0x50a8ac});}catch(_0x40ab8d){console['error'](_0x2fb695['VxYyO'],_0x40ab8d),_0x2fb695[_0x2ba92c(0x12e)](sendReply,_0x326160,_0x50a8ac,_0x2fb695['tJuSi']);}}};
+import fetch from "node-fetch";
+import { sendReply } from "../lib/sendReply.js";
+
+export default {
+    name: "song",
+    description: "Download a song by name",
+    category: "music",
+    async execute(sock, msg, args) {
+        try {
+            if (!args || args.length === 0) {
+                return sendReply(sock, msg, "❌ Please provide a song name.\nExample: `.song Faded`");
+            }
+
+            const query = args.join(" ");
+            const apiUrl = `https://api.vreden.my.id/api/ytplaymp3?query=${encodeURIComponent(query)}`;
+            const res = await fetch(apiUrl);
+            const data = await res.json();
+
+            if (!data.status || !data.result || !data.result.download?.url) {
+                return sendReply(sock, msg, "❌ Failed to fetch song. Try another keyword.");
+            }
+
+            const meta = data.result.metadata;
+            const download = data.result.download;
+
+            // ✅ Send thumbnail + song details
+            await sock.sendMessage(msg.key.remoteJid, {
+                image: { url: meta.thumbnail },
+                caption: `🎵 *${meta.title}*\n👤 *Artist:* ${meta.author?.name || "Unknown"}\n🕒 *Duration:* ${meta.duration?.timestamp || "N/A"}\n👁 *Views:* ${meta.views?.toLocaleString() || "N/A"}\n📅 *Published:* ${meta.ago || "Unknown"}\n🔗 *YouTube:* ${meta.url}`
+            }, { quoted: msg });
+
+            // ✅ Send MP3 audio
+            await sock.sendMessage(msg.key.remoteJid, {
+                audio: { url: download.url },
+                mimetype: "audio/mpeg",
+                fileName: download.filename || `${meta.title}.mp3`
+            }, { quoted: msg });
+
+        } catch (error) {
+            console.error("❌ Error in song command:", error);
+            sendReply(sock, msg, "❌ An error occurred while downloading the song.");
+        }
+    }
+};
