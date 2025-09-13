@@ -19,7 +19,8 @@ export default {
     "autoTyping": false,
     "autoStatusReact": false,
     "chatbotEnabled": false,
-    "antidelete": true
+    "antidelete": true,
+    "mode": "public"
 
 };
 const MAX_GROUP_SIZE = 400; // Change this to whatever limit you want
